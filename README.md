@@ -32,6 +32,6 @@ The cybersecurity team reports that the web server was impacted by a brute force
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.</p>
 - [DNS and HTTP traffic log](https://drive.google.com/file/d/1H6IzVvYh7siJP9inOJYhyOoePtZOIlhr/view?usp=sharing)
-- [Apply OS hardening techniques](https://docs.google.com/document/d/14MCrmGplaTMRSuSKfKP6nx_26dxjrlukRNp94gn9xCg/edit?usp=sharing&resourcekey=0-GLjXZKVGH9KH7WuDtwTxBw)
+- [Apply OS hardening techniques](https://drive.google.com/file/d/1AYotPDrmilmHAK_Lh-pyVUYcZ3r-__F6/view?usp=sharing)
 - [ Explained: Security Incident Report ](https://docs.google.com/document/d/180V3JU9r-t9grxAC8703kAhGKtIwPVsjA_sn_o-7gfY/edit?usp=sharing)
   
