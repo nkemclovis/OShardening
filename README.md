@@ -31,7 +31,7 @@ A senior analyst confirms that the website was compromised. The analyst checks t
 The cybersecurity team reports that the web server was impacted by a brute force attack. The disgruntled baker was able to guess the password easily because the admin password was still set to the default password. Additionally, there were no controls in place to prevent a brute force attack. 
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.</p>
-- [DNS and HTTP traffic log](https://docs.google.com/document/d/1v-YEYvaGmbvsCsODtgwnjp8Is1_aMiixb4QM8oE1M_w/edit?usp=sharing&resourcekey=0-WK-WDENS3SzTiZRCU4BXCA)
+- [DNS and HTTP traffic log](https://drive.google.com/file/d/1H6IzVvYh7siJP9inOJYhyOoePtZOIlhr/view?usp=sharing)
 - [Apply OS hardening techniques](https://docs.google.com/document/d/14MCrmGplaTMRSuSKfKP6nx_26dxjrlukRNp94gn9xCg/edit?usp=sharing&resourcekey=0-GLjXZKVGH9KH7WuDtwTxBw)
 - [ Explained: Security Incident Report ](https://docs.google.com/document/d/180V3JU9r-t9grxAC8703kAhGKtIwPVsjA_sn_o-7gfY/edit?usp=sharing)
   
